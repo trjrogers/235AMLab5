@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Pig Game</string>
+    <string name="player1">Player 1</string>
+    <string name="player_1_name"></string>
+    <string name="player2">Player 2</string>
+    <string name="player_2_name"></string>
+    <string name="human">Human</string>
+    <string name="computer">Computer</string>
+    <string name="player_1_turn">Player 1\'s turn</string>
+    <string name="player_2_turn">Player 2\'s turn</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="newGame">New Game</string>
+    <string name="gameInstructions">
+        Enter in Player 1 and Player 2\'s names and click "New Game".
+        Each player takes turns rolling the die. A player may roll as many times as they wish, until
+        they either end their turn or roll a 1. On rolling a 1, the player\'s turn ends and their
+        newly accrued points for that turn are taken away. If they end their turn before rolling a
+        1, their points that turn are added to their running score. Once a player ends their turn
+        with a score of 100 or higher, the other player has one more turn to beat the other
+        player\'s score. The player with the highest score at the end wins.</string>
+
+    <string-array name="num_dice_keys">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+    <string-array name="num_dice_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="max_turn_score_keys">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="max_turn_score_values">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+</resources>

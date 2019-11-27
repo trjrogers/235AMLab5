@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_twopane_land.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_land.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tip_calculator.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_tip_calculator.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_twopane_port.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_port.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_tip_calculator_twopane.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator_twopane.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Trevor\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]

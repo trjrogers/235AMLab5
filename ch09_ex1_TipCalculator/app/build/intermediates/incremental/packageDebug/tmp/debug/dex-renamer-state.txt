@@ -1,0 +1,4 @@
+#Sun Nov 24 01:10:27 PST 2019
+base.0=C\:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

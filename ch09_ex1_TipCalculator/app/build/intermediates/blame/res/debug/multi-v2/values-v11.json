@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex1_TipCalculator\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,82",
+                        "endColumns": "63,73",
+                        "endOffsets": "76,151"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,118",
+                        "endColumns": "62,72",
+                        "endOffsets": "113,186"
+                    }
+                }
+            ]
+        }
+    ]
+}

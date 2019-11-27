@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_twopane_port.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_port.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_twopane_land.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_main_twopane_land.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tip_calculator.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\layout\\fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_tip_calculator_twopane.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator_twopane.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_tip_calculator.xml.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Dev\\F19\\235AM\\Lab5\\ch09_ex3_TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
